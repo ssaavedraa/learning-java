@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DartsTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-05-05T03:46:19" hostname="GIGABYTE-G5" time="0.01">
+  <properties/>
+  <testcase name="exactlyOnCentre" classname="DartsTest" time="0.005"/>
+  <testcase name="onTheInnerCircle" classname="DartsTest" time="0.001"/>
+  <testcase name="justWithinTheInnerCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="justWithinTheMiddleCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="asymmetricPositionBetweenTheInnerAndMiddleCircles" classname="DartsTest" time="0.0"/>
+  <testcase name="nearTheCentre" classname="DartsTest" time="0.0"/>
+  <testcase name="missedTarget" classname="DartsTest" time="0.001"/>
+  <testcase name="justOutsideTheOuterCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="justOutsideTheMiddleCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="onTheMiddleCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="onTheOuterCircle" classname="DartsTest" time="0.0"/>
+  <testcase name="justWithinTheOuterCircle" classname="DartsTest" time="0.001"/>
+  <testcase name="justOutsideTheInnerCircle" classname="DartsTest" time="0.0"/>
+  <system-out><![CDATA[0.0
+1.0
+0.9899494936611665
+4.949747468305833
+4.031128874149275
+0.14142135623730953
+12.727922061357855
+10.040916292848975
+5.091168824543142
+5.0
+10.0
+9.899494936611665
+1.1313708498984762
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
